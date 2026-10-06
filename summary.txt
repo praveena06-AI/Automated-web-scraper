@@ -1,0 +1,90 @@
+==============================================================================
+               AUTOMATED TECH NEWS SCRAPER - SUMMARY REPORT               
+==============================================================================
+Generated At      : 2026-09-25 15:48:24 UTC
+Target Source     : The Hacker News (https://thehackernews.com/)
+Pipeline Duration : 1.89s
+
+------------------------------------------------------------------------------
+1. INGESTION & PIPELINE METRICS
+------------------------------------------------------------------------------
+Total Raw Articles Extracted  : 32
+Duplicate Records Removed     : 0
+Invalid URLs Removed          : 0
+Missing Title Records Removed : 0
+Total Unique Clean Articles   : 32
+Unique URLs Confirmed         : 32
+
+------------------------------------------------------------------------------
+2. CATEGORY BREAKDOWN
+------------------------------------------------------------------------------
+  * Vulnerability / Web Security             :   5 articles ( 15.6%)
+  * Malware / Social Engineering             :   2 articles (  6.2%)
+  * Artificial Intelligence / Malware        :   2 articles (  6.2%)
+  * Vulnerability / Network Security         :   2 articles (  6.2%)
+  * Malware / Supply Chain Attack            :   1 articles (  3.1%)
+  * Artificial Intelligence / Security Operations :   1 articles (  3.1%)
+  * Cryptocurrency /Cybercrime               :   1 articles (  3.1%)
+  * Vulnerability / Email Security           :   1 articles (  3.1%)
+  * Cloud Security / Vulnerability           :   1 articles (  3.1%)
+  * Vulnerability / Mobile Security          :   1 articles (  3.1%)
+  * Hacking News / Cybersecurity News        :   1 articles (  3.1%)
+  * Phishing / Malware                       :   1 articles (  3.1%)
+  * Artificial Intelligence / Application Security :   1 articles (  3.1%)
+  * Social Engineering / Cybercrime          :   1 articles (  3.1%)
+  * Artificial Intelligence / Web Security   :   1 articles (  3.1%)
+  * Cloud Security / Identity Security       :   1 articles (  3.1%)
+  * Malware / Supply Chain                   :   1 articles (  3.1%)
+  * DevOps Security / Supply Chain           :   1 articles (  3.1%)
+  * Malware / Cloud Security                 :   1 articles (  3.1%)
+  * Artificial Intelligence / Security Testing :   1 articles (  3.1%)
+  * Artificial Intelligence / Cybersecurity  :   1 articles (  3.1%)
+  * Vulnerability / Linux                    :   1 articles (  3.1%)
+  * Zero-Day / Vulnerability                 :   1 articles (  3.1%)
+  * Data Breach / Cybercrime                 :   1 articles (  3.1%)
+  * Network Security / Vulnerability         :   1 articles (  3.1%)
+
+------------------------------------------------------------------------------
+3. PUBLICATION DATE BREAKDOWN
+------------------------------------------------------------------------------
+  * Sep 23, 2026                             :  13 articles ( 40.6%)
+  * Sep 24, 2026                             :  10 articles ( 31.2%)
+  * Sep 25, 2026                             :   7 articles ( 21.9%)
+  * Sep 22, 2026                             :   2 articles (  6.2%)
+
+------------------------------------------------------------------------------
+4. DATA INTEGRITY & MISSING VALUES
+------------------------------------------------------------------------------
+  * title                :   0 missing (  0.0%)
+  * url                  :   0 missing (  0.0%)
+  * published_date       :   0 missing (  0.0%)
+  * category             :   0 missing (  0.0%)
+  * author               :  32 missing (100.0%)
+  * summary              :   0 missing (  0.0%)
+  * source_website       :   0 missing (  0.0%)
+
+------------------------------------------------------------------------------
+5. SAMPLE EXTRACTED HEADLINES & INSIGHTS
+------------------------------------------------------------------------------
+Average Title Length: 81.7 characters
+
+Top Recent Articles:
+  [1] Compromised GitHub Actions Came Back Online and Resumed Executing Mini Shai-Hulud Malware
+      Category : Malware / Supply Chain Attack | Date: Sep 25, 2026
+      URL      : https://thehackernews.com/2026/09/compromised-github-actions-came-back.html
+  [2] PamStealer macOS Malware Adds Live C2 Payload Decryption and Multi-Layer Persistence
+      Category : Malware / Social Engineering | Date: Sep 25, 2026
+      URL      : https://thehackernews.com/2026/09/pamstealer-macos-malware-adds-live-c2.html
+  [3] The SOC Doesn't Need to Start Over with Every Alert
+      Category : Artificial Intelligence / Security Operations | Date: Sep 25, 2026
+      URL      : https://thehackernews.com/2026/09/the-soc-doesnt-need-to-start-over-with.html
+  [4] Bitget Says Suspected North Korean Hackers Stole $351.6M After Backend Compromise
+      Category : Cryptocurrency /Cybercrime | Date: Sep 25, 2026
+      URL      : https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html
+  [5] Roundcube Pre-Auth SQL Injection Flaw Actively Exploited in the Wild
+      Category : Vulnerability / Email Security | Date: Sep 25, 2026
+      URL      : https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html
+
+==============================================================================
+END OF SUMMARY REPORT
+==============================================================================
